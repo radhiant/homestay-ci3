@@ -1,0 +1,67 @@
+{
+  "_from": "jquery.fullscreen",
+  "_id": "jquery.fullscreen@0.6.0",
+  "_inBundle": false,
+  "_integrity": "sha1-l3ERBulutjlRR7YI5k3XBtNkJK0=",
+  "_location": "/jquery.fullscreen",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "jquery.fullscreen",
+    "name": "jquery.fullscreen",
+    "escapedName": "jquery.fullscreen",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jquery.fullscreen/-/jquery.fullscreen-0.6.0.tgz",
+  "_shasum": "97711106e96eb6395147b608e64dd706d36424ad",
+  "_spec": "jquery.fullscreen",
+  "_where": "C:\\Users\\BKU",
+  "author": {
+    "name": "Vladimir Zhuravlev"
+  },
+  "bugs": {
+    "url": "https://github.com/private-face/jquery.fullscreen/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "jQuery plugin for showing any DOM element on a page in fullscreen mode",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "homepage": "https://github.com/private-face/jquery.fullscreen",
+  "keywords": [
+    "jquery-plugin",
+    "fullscreen",
+    "ui",
+    "firefox",
+    "webkit",
+    "chrome",
+    "safari",
+    "opera",
+    "IE"
+  ],
+  "license": "MIT",
+  "main": "release/jquery.fullscreen.min.js",
+  "name": "jquery.fullscreen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/private-face/jquery.fullscreen.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.6.0"
+}
