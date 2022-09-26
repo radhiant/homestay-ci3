@@ -1,5 +1,9 @@
 # homestay-ci3
 
+Homestay, mengelola pendapatan setiap pelanggan menginap dan pengeluaran biaya operasi.
+
+Teknologi untuk membuat aplikasi Homestay sebagai berikut :
+
 Framework used : Codeigniter 3.1.11
 
 CSS Template : SB Admin 2
